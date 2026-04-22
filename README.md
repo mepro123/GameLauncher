@@ -44,7 +44,7 @@ A simple launcher that automatically detects and runs your installed games from 
 ## 📁 Folder Structure Example
 
 ```
-C:\Program Files\Games
+C:\Games
 │
 ├── Roblox
 │   └── RobloxPlayerBeta.exe
@@ -68,6 +68,7 @@ C:\Program Files\Games
 ### 4/22/2026
 * Added Delete/Add Game button
 * Button tweening (Improving in 1.2)
+* Moved from `C:\ProgramFiles\Games > C:\Games`
 
 ---
 
