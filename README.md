@@ -2,7 +2,7 @@
 
 A simple launcher that automatically detects and runs your installed games from a single folder.
 
-<img width="1919" height="1032" alt="preview" src="https://github.com/user-attachments/assets/2d35927a-b3e5-41ea-91c1-76a6f751c462" />
+<img width="1918" height="1004" alt="image" src="https://github.com/user-attachments/assets/4a8ce94a-1a81-4fdc-81e9-55412b4ef444" />
 
 ---
 
@@ -66,8 +66,8 @@ C:\Program Files\Games
 
 ---
 
-## 🚀 Version 1.0
-
+## 🚀 Version 1.1 
+### 4/22/2026
 * First Release!
 
 ---
