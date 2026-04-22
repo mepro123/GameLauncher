@@ -26,8 +26,6 @@ A simple launcher that automatically detects and runs your installed games from 
 1. **Run `installation.bat` as Administrator**
    This will:
 
-   * Install required modules:
-     pip install PyQt6 psutil
    * Create the folder:
      C:\Program Files\Games
 
