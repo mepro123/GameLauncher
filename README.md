@@ -64,14 +64,13 @@ C:\Program Files\Games
 * Only `.exe` files are supported
 * Make sure your game is not missing dependencies
 * Running as admin is only required for setup
+* Sometimes might trigger a false positive
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Version 1.0
 
-* Custom icons per game
-* Game categories
-* Auto-detect running games
+* First Release!
 
 ---
 
@@ -79,3 +78,5 @@ C:\Program Files\Games
 
 * [⬇️ Click here to download](https://codeload.github.com/mepro123/GameLauncher/zip/refs/heads/main)
 * [⬇️ Click here to go to website](https://sites.google.com/view/gam3launcher/main)
+
+---
