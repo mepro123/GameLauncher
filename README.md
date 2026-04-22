@@ -72,3 +72,5 @@ C:\Program Files\Games
 * Custom icons per game
 * Game categories
 * Auto-detect running games
+
+[⬇️ Click here to download](https://codeload.github.com/mepro123/GameLauncher/zip/refs/heads/main)
