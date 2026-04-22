@@ -68,7 +68,8 @@ C:\Program Files\Games
 
 ## 🚀 Version 1.1 
 ### 4/22/2026
-* First Release!
+* Added Delete/Add Game button
+* Button tweening (Improving in 1.2)
 
 ---
 
