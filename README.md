@@ -50,11 +50,11 @@ A simple launcher that automatically detects and runs your installed games from 
 ```
 C:\Program Files\Games
 │
-├── GTA V
-│   └── GTAV.exe
+├── Roblox
+│   └── RobloxPlayerBeta.exe
 │
-├── Minecraft
-│   └── Minecraft.exe
+├── Geometry Dash
+│   └── GeometryDash.exe
 ```
 
 ---
