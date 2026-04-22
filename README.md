@@ -78,3 +78,10 @@ C:\Program Files\Games
 * [⬇️ Click here to go to website](https://sites.google.com/view/gam3launcher/main)
 
 ---
+
+## 📝 Credits
+
+* PyQt6 - UI
+* psutil - Battery, Time
+
+---
