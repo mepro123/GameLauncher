@@ -73,5 +73,5 @@ C:\Program Files\Games
 * Game categories
 * Auto-detect running games
 
-[⬇️ Click here to download](https://codeload.github.com/mepro123/GameLauncher/zip/refs/heads/main)
-[⬇️ Click here to go to website](https://sites.google.com/view/gam3launcher/main)
+* [⬇️ Click here to download](https://codeload.github.com/mepro123/GameLauncher/zip/refs/heads/main)
+* [⬇️ Click here to go to website](https://sites.google.com/view/gam3launcher/main)
