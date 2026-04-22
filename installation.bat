@@ -20,8 +20,5 @@ pause
 exit
 )
 
-echo Installing required packages...
-pip install PyQt6 psutil
-
 echo Done!
 pause

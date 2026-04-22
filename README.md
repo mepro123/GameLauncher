@@ -26,8 +26,6 @@ A simple launcher that automatically detects and runs your installed games from 
 1. **Run `installation.bat` as Administrator**
    This will:
 
-   * Install required modules:
-     pip install PyQt6 psutil
    * Create the folder:
      C:\Program Files\Games
 
@@ -78,5 +76,12 @@ C:\Program Files\Games
 
 * [⬇️ Click here to download](https://codeload.github.com/mepro123/GameLauncher/zip/refs/heads/main)
 * [⬇️ Click here to go to website](https://sites.google.com/view/gam3launcher/main)
+
+---
+
+## 📝 Credits
+
+* PyQt6 - UI
+* psutil - Battery, Time
 
 ---
