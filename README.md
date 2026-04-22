@@ -23,18 +23,16 @@ A simple launcher that automatically detects and runs your installed games from 
 
 ## ⚙️ Installation
 
-1. **Run `installation.bat` as Administrator**
+1. **Run `setup.bat`**
    This will:
 
    * Create the folder:
-     C:\Program Files\Games
-
-   Admin privileges are required to write inside Program Files.
+     C:\Games
 
 2. **Add your games**
 
    * Put your game folders inside:
-     C:\Program Files\Games
+     C:\Games
    * Each game must contain an `.exe` file.
 
 3. **Launch the program**
