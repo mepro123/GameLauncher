@@ -58,6 +58,7 @@ C:\Games
 ## ⚠️ Notes
 
 * Only `.exe` files are supported
+* Only one `.exe` files (if has more then will randomize)
 * Make sure your game is not missing dependencies
 * Running as admin is only required for setup
 * Sometimes might trigger a false positive
